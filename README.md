@@ -24,7 +24,7 @@ Designed a Responsive React Project using functional components, React Hooks, an
 
 ### Intro Page
 
-![alt text](https://github.com/ephraim888sun/react-portfolio-website/public/websiteImg/Intro.jpg?raw=true)
+![alt text](https://github.com/ephraim888sun/react-portfolio-website/blob/master/public/websiteImg/Intro.jpg?raw=true)
 
 ### Portfolio
 
