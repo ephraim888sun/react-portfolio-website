@@ -82,7 +82,7 @@ const Portfolio = () => {
                     <div className="item">
                     <img src={d.img}
                     alt="" />
-                    <h3>{d.title}</h3>
+                    <h3>{d}</h3>
                 </div>
                 ))}
             </div>
